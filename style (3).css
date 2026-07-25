@@ -1,0 +1,11 @@
+{
+  "name": "Berthold’s Kochbuch",
+  "short_name": "Kochbuch",
+  "description": "Traditionelle und moderne Rezepte – mit Liebe gesammelt.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf2",
+  "theme_color": "#b85735",
+  "icons": []
+}
