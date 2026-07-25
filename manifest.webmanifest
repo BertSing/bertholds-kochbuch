@@ -1,0 +1,8 @@
+{
+  "name": "Berthold’s Kochbuch",
+  "short_name": "Kochbuch",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf7f0",
+  "theme_color": "#1f4a33"
+}
